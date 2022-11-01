@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+import AVFoundation
+
 @main
 struct Snap_App: App {
     let persistenceController = PersistenceController.shared
